@@ -1,4 +1,5 @@
 ---
+title: "Summer Session II 2022"
 output: 
   html_document:
     css: "style.css"
@@ -14,9 +15,6 @@ knitr::opts_chunk$set(
 ```{r load libraries}
 library(fontawesome)
 ```
-
-
-<center> <h1> Stats 7 <br/> Summer Session II 2022 </h1> </center>
 
 This course will provide an introduction to fundamental statistics concepts. Statistical methods will be discussed with an emphasis on data-based critical thinking and decision making. Key to statistics is the ability to clearly convey findings in context, including uncertainty. Using statistics to learn from data is necessary for nearly every field.
 
