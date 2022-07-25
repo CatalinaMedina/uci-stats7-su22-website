@@ -8,3 +8,4 @@ navbar:
       href: schedule.html
     - text: "Syllabus"
       href: documents/stats7-summerII-2022-syllabus.pdf
+output_dir: "."
