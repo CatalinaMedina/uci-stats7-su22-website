@@ -1,0 +1,10 @@
+name: "Stats 7"
+navbar:
+  title: "Stats 7"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Daily Schedule"
+      href: schedule.html
+    - text: "Syllabus"
+      href: documents/stats7-summerII-2022-syllabus.pdf
