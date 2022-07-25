@@ -1,0 +1,29 @@
+---
+title: "Daily Schedule"
+output: 
+  html_document:
+    css: "style.css"
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+## Before the first day of class 
+
+- Read the [class syllabus](documents/stats7-summerII-2022-syllabus.pdf)
+- Install [R](https://www.r-project.org/)
+- Install the free version of [Rstudio](https://www.rstudio.com/)
+- Watch set 1 of lecture videos (not available yet)
+- Complete lecture video quiz 1 on Gradescope by 11:59 pm on August 1st (not available yet)
+
+## Monday Aug 2, 2022  
+
+- First day of class
