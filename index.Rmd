@@ -21,11 +21,12 @@ This course will provide an introduction to fundamental statistics concepts. Sta
 <br/> <br/>
 <center> <h1> Learning objectives </h1> </center>
 Upon successful completion of the course, students should be able to:
-identify basic patterns and limitations of empirical data
-conduct hypothesis tests for population parameters
-check model assumptions
-evaluate the significance of their findings and the strength of the evidence
-present their analysis and findings in context without statistical jargon
+
+- identify basic patterns and limitations of empirical data
+- conduct hypothesis tests for population parameters
+- check model assumptions
+- evaluate the significance of their findings and the strength of the evidence
+- present their analysis and findings in context without statistical jargon
 
 
 <br/> <br/>

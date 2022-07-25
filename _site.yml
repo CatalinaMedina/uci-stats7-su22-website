@@ -7,5 +7,5 @@ navbar:
     - text: "Daily Schedule"
       href: schedule.html
     - text: "Syllabus"
-      href: documents/stats7-summerII-2022-syllabus.pdf
+      href: syllabus.html
 output_dir: "."

@@ -1,0 +1,109 @@
+---
+title: "Stats 7 - Basic Statistics"
+output: 
+  html_document:
+    css: "style.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE
+)
+```
+
+
+# Summer Session II - 2022  
+# Syllabus
+
+**Lecture**: In person Tuesdays and Thursdays 1 - 3:50 pm in ICS 180
+
+**Discussion**: Wednesdays 4 - 4:50 pm in DBH 1500
+
+**Learning mode**: Flipped (i.e. Lecture videos will be watched before class and class time will be used to practice applying the material)
+
+**Instructor**: Catalina Medina (she/her/hers) [catalmm1@uci.edu](mailto:catalmm1@uci.edu)
+
+**Instructor office hours (OH)**: Mondays 10 - 11am on Zoom (Find Zoom link on Canvas)
+
+**TA**: Roy Zhao [nzhao3@uci.edu](mailto:nzhao3@uci.edu)
+
+**TA office hours**: Fridays 3 - 4pm on Zoom (find Zoom link on Canvas)
+
+## Course description:
+
+This course will provide an introduction to fundamental statistics concepts. Statistical methods will be discussed with an emphasis on data-based critical thinking and decision making. Key to statistics is the ability to clearly convey findings in context, including uncertainty. Using statistics to learn from data is necessary for nearly every field.
+
+## Learning objectives:
+
+Upon successful completion of the course, students should be able to:
+
+- identify basic patterns and limitations of empirical data
+- conduct hypothesis tests for population parameters
+- check model assumptions
+- evaluate the significance of their findings and the strength of the evidence
+- present their analysis and findings in context without statistical jargon
+
+## Materials:
+
+This course will use the free open access textbook:
+OpenIntro Statistics (4th edition) by David Diez, Mine Cetinkaya-Rundel, and Christopher D Barr [https://www.openintro.org/book/os/](https://www.openintro.org/book/os/)
+
+We will use the R software for reading in data and performing computations. You will need to install R and then RStudio.
+
+The class website will contain the class syllabus, schedule, and links to all material.
+
+Homework will be submitted to Gradescope. Gradescope can be accessed through Canvas.
+
+Canvas will be used for class communication, lecture video quizzes, and grades.
+
+
+## Communication expectations:
+
+We will use the Canvas discussion board as the primary mode for communication. This is the quickest way to get questions answered because the instructor, TA, and students can all contribute to discussion posts. For student-specific questions, the instructor or TA can be reached by email.
+
+## Grading breakdown by assignment type
+
+| Assignment | Percentage of final grade | Due | Location |
+|:--------------|:----------------|:----------------------|:-------|
+|Lecture video quizzes | 15% | 11:59 pm Mondays and Wednesdays | Online on Canvas |
+| Homeworks | 30% | 11:59 pm Tuesdays | Online on GradeScope |
+| Discussion quizzes | 25% | 4:50 pm Wednesdays | In person in discussion |
+| Final exam | 30% | 3:50 pm Sep. 6th | In person in lecture |
+
+
+Grades will not be curved and will not be rounded. We will use the following grading scheme:  
+A- \[90, 93), A \[93, 96), A+ \[96, 100],  
+B- \[80, 83), B \[83, 86), B+ \[86, 90),  
+C- \[70, 73), C \[73, 76), C+ \[76, 80),  
+D- \[60, 63), D \[63, 66), D+ \[66, 70),  
+F- \[0, 60)
+
+
+### Lecture video quizzes:
+Students will be required to watch lecture videos on Canvas before attending lectures in person on Tuesdays and Thursdays. Each set of lecture videos will have one corresponding lecture video quiz on Canvas, due at 11:59 pm the night before each corresponding class time (i.e. Mondays and Wednesdays).
+
+These lecture videos will provide an introduction into the content that will be practiced during the scheduled class time. By utilizing a partially flipped classroom we can dedicate more class time to working through problems, which is essential for understanding statistics. The quizzes are meant to help motivate students to stay up to date with the rapid pacing of the summer class and as such will be composed of relatively straightforward questions based off of the corresponding videos' content. Two attempts are allowed per quiz and only the highest score will be used.
+
+### Homeworks:
+
+Homework will be available on and submitted to Gradescope. A new homework will become available each Thursday and be due the following Tuesday at 11:59pm. Homework must be submitted as a single pdf.
+
+You can do homework in any format you want (write on paper and then take pictures, type it, or use a tablet & pen) as long as it is compiled into a single pdf file. This can easily be done for non typed assignments via your phone using apps such as ScanGenius or iScanner or Tinyscanner (many others exist).
+
+### Discussion quizzes:
+
+Each discussion will be in person and run by the TA. The first 20 minutes will be used to discuss questions the students may have. The remaining 30 minutes will be used for a short written quiz on the previous week's material.
+While the quiz will focus on the previous week's material, statistics is a cumulative topic so older material will still be relevant and necessary. No calculators will be necessary or allowed. These quizzes will be closed book, closed notes.
+
+### Final exam:
+
+The comprehensive final exam will be in person in the lecture room September 6th from 1 to 3:50 pm PT. No outside materials are allowed aside from a pen or pencil. The final exam is comprehensive and should take approximately 1 hour to complete, but students will have the entire lecture time to complete the exam.
+
+## "Life happened" pass:
+
+There are various unexpected reasons a student may be prevented from completing an assignment on time. No late work will be accepted. To account for this, each student will have one "life happened" pass to use for any single assignment (i.e. quiz or homework). The pass cannot be used on the final exam. If this pass is used on an assignment, the student will not receive 0 points, the final grade will be calculated ignoring that single assignment. Email the TA to use the "life happened" pass.
+
+## Lecture:
+
+Attendance in lecture will not be enforced, but is strongly recommended. Statistics is a science that requires practice, not just memorization. Lecture video quizzes will be used to check if the students have watched the lecture videos before class, but are not an assessment of sufficient knowledge or understanding. In person lectures will be shorter than the allocated class time to account for the time dedicated outside of class to watch the lecture videos.
