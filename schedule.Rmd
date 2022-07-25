@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 - Install [R](https://www.r-project.org/)
 - Install the free version of [Rstudio](https://www.rstudio.com/)
 - Watch set 1 of lecture videos (not available yet)
-- Complete lecture video quiz 1 on Gradescope by 11:59 pm on August 1st (not available yet)
+- Complete lecture video quiz 1 on Canvas by 11:59 pm on August 1st (not available yet)
 
 ## Monday Aug 2, 2022  
 
