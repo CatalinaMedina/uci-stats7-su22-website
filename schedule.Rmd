@@ -21,9 +21,12 @@ knitr::opts_chunk$set(
 - Read the [class syllabus](documents/stats7-summerII-2022-syllabus.pdf)
 - Install [R](https://www.r-project.org/)
 - Install the free version of [Rstudio](https://www.rstudio.com/)
-- Watch set 1 of lecture videos (not available yet)
-- Complete lecture video quiz 1 on Canvas by 11:59 pm on August 1st (not available yet)
 
 ## Monday Aug 2, 2022  
 
-- First day of class
+- Watch set 1 of lecture videos (not available yet)
+- Complete lecture video quiz 1 on Canvas by 11:59 pm on August 1st (not available yet)
+
+## Tuesday Aug 3, 2022
+
+- Meet in ICS 180 at 1pm for the first day of in person lecture
