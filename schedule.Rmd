@@ -14,17 +14,24 @@ knitr::opts_chunk$set(
   message = FALSE,
   warning = FALSE
 )
+
+library(fontawesome)
 ```
 
 ## Before the first day of class 
 
-- Read the [class syllabus](documents/stats7-summerII-2022-syllabus.pdf)
-- Install [R](https://www.r-project.org/) (free software)
-- Install the free version of [Rstudio](https://www.rstudio.com/)
+- Read the class syllabus [`r fa("link", fill = "blue")`](https://catalinamedina.github.io/uci-stats7-su22-website/syllabus.html)
+- Install R [`r fa("link", fill = "blue")`](https://www.r-project.org/) (free software)
+- Install the free version of Rstudio [`r fa("link", fill = "blue")`](https://www.rstudio.com/)
 
 ## Monday Aug 2, 2022  
 
-- Watch set 1 of lecture videos (not available yet)
+- Watch set 1 of lecture videos
+    - Introduction to the class video: [`r fa("link", fill = "blue")`](https://uci.zoom.us/rec/share/iEzan4P2GVBIK4rEa2LtOLH1fe9KaDx3zsovVnalo_mfIUoHGnZZulOkBsW-ZlTR.VXePD4F_vhRPVsgU?startTime=1659214374000)
+    - Section 1.1: Motivating case study [`r fa("link", fill = "blue")`](https://uci.zoom.us/rec/share/oD5hLVonR3CZ92t8D9zmJJF1qfLshfCnHsL0-_-qvOloMS1s3rohD9TMg32EfXyF.DBGfPottko6zeJyR?startTime=1659204319000) Lecture slides: [`r fa("file", fill = "blue")`](lecture-slides/lecture1-section1.1-case-study.pdf)
+    - Section 1.2: Data basics [`r fa("link", fill = "blue")`](https://uci.zoom.us/rec/share/LfwhN6yTv7-nOE0cIAUx4vZoFyeK5joam7mQnOk6QGyZVGqF47625j9HUtJu2HWO.m9QSfwOlYGH0pzMb?startTime=1659218067000) [`r fa("file", fill = "blue")`](lecture-slides/lecture1-section1.2-data-basics.pdf)
+    - Section 1.3: Sampling principles and strategies [`r fa("link", fill = "blue")`](https://uci.zoom.us/rec/share/8ez_7EOY5QoAxHlVcT-EffYubi-xg0R8Ebk7AiDHByWpaygZrSREJ0XFFuycelkr.ROp41PFoMRk7OaKo?startTime=1659226434000) [`r fa("file", fill = "blue")`](lecture-slides/lecture1-section1.3-sampling-principles-and-strategies.pdf)
+    - Section 1.4: Experiments [`r fa("link", fill = "blue")`](https://uci.zoom.us/rec/share/3KQRxWLSiqBHGxL6TG9mMrmhj90gxQfo3iLRe3pIFOfWBVLHaCSYZue-AtxKZNDj.zbn4J4xUTTzUJzq-?startTime=1659228286000) [`r fa("file", fill = "blue")`](lecture-slides/lecture1-section1.4-experiments.pdf)
 - Complete lecture video quiz 1 on Canvas by 11:59 pm on August 1st (not available yet)
 
 ## Tuesday Aug 3, 2022
