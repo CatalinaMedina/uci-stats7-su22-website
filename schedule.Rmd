@@ -36,4 +36,4 @@ library(fontawesome)
 
 ## Tuesday Aug 3, 2022
 
-- Meet in ICS 180 at 1pm for the first day of in person lecture
+- Meet in ICS 180 at 1pm for the first day of in person lecture [`r fa("file", fill = "blue")`](lecture-slides/lecture1-practice.pdf)
