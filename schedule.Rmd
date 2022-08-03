@@ -41,6 +41,8 @@ library(fontawesome)
 ## Wednesday Aug 3, 2022
 
 - Meet in DBH 1500 at 4pm for discussion
+    - [`r fa(name = "file", fill = "blue")`](discussion-material/stats7-discussion1-script.R) Discussion R script
+    - [`r fa(name = "file", fill = "blue")`](discussion-material/starbucks.csv) Discussion Starbucks data
 - Watch lecture 2 videos
     - [`r fa(name = "video", fill = "blue")`](https://uci.yuja.com/V/Video?v=5550088&node=24377207&a=655470973&autoplay=1) [`r fa("file", fill = "blue")`](lecture-slides/lecture2-section2.1-examining-numerical-data.pdf) Section 2.1 Examining numerical data
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/DkpYGufePoIj9VWIeM5GGgk216tEMvcaVuPtgilT3YCeBCDsBUOaO9XsWStzINc.QnpaVvA7Vz-j_sDO?startTime=1659505515000) [`r fa("file", fill = "blue")`](lecture-slides/lecture2-section2.2-considering-categorical-data.pdf) Section 2.2 Considering categorical data
