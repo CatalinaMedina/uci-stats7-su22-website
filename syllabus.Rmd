@@ -53,7 +53,7 @@ We will use the R software for reading in data and performing computations. You 
 
 The class website will contain the class syllabus, schedule, and links to all material.
 
-Homework will be submitted to Gradescope. Gradescope can be accessed through Canvas.
+Homework and discussion quizzes will be submitted to Gradescope. Gradescope can be accessed through Canvas. Gradescope upload directions: [`r fontawesome::fa(name = "link", fill = "blue")`](lab-material/submitting_hw_guide.pdf)
 
 Canvas will be used for class communication, lecture video quizzes, and grades.
 
