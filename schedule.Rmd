@@ -50,7 +50,7 @@ library(fontawesome)
 
 ## Thursday Aug 4, 2022
 
-- Attend lecture at 1pm
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture2-practice.pdf) Attend lecture at 1pm
 
 ## Friday Aug 5, 2022
 
