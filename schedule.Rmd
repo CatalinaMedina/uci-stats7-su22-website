@@ -51,6 +51,7 @@ library(fontawesome)
 ## Thursday Aug 4, 2022
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture2-practice.pdf) Attend lecture at 1pm
+- [`r fa("file", fill = "blue")`](homework/stats7-hw1.pdf) Homework 1 released. Due on August 9th at 11:59pm.
 
 ## Friday Aug 5, 2022
 
