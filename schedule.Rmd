@@ -36,7 +36,7 @@ library(fontawesome)
 
 ## Tuesday Aug 2, 2022
 
-- [`r fa("file", fill = "blue")`](lecture-slides/lecture1-practice.pdf) Meet in ICS 180 at 1pm for the first day of in person lecture 
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture1-practice.pdf) (Google slides: [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1KnEApLH-6K-tYN2pbxHxl98iN705VoZKGVFfr-LeLQ4/edit?usp=sharing)) Meet in ICS 180 at 1pm for the first day of in person lecture 
 
 ## Wednesday Aug 3, 2022
 
@@ -50,7 +50,7 @@ library(fontawesome)
 
 ## Thursday Aug 4, 2022
 
-- [`r fa("file", fill = "blue")`](lecture-slides/lecture2-practice.pdf) Attend lecture at 1pm
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture2-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1zNV-M1LuDTg7sTJVo0oBZLPTP1FtwymeXsJrspX4hzg/edit?usp=sharing) Attend lecture at 1pm
 - [`r fa("file", fill = "blue")`](homework/stats7-hw1.pdf) Homework 1 released. Due on August 9th at 11:59pm.
 
 ## Friday Aug 5, 2022
