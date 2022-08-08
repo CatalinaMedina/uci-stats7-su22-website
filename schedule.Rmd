@@ -63,7 +63,7 @@ library(fontawesome)
 - Watch lecture 3 videos
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/AuG3HClMhtYs30BTSez_kpVc0Nm7xQU7e0h9TQXDCZedFwzu2YirPc5NXL24-z6i._7YEnSkfoTPmWfX-?startTime=1659938147000) [`r fa("file", fill = "blue")`](lecture-slides/lecture3-section3.5-continuous-distributions.pdf) Section 3.5 Continuous distributions
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/f0ghKmQIbyiWni3yeuI1naNrzyJ_Hi8y6crXT8np9PNUp0zi51b6VuRU2uU9Q71_.2ms3JfeFlSyfw8BM?startTime=1659940349000) [`r fa("file", fill = "blue")`](lecture-slides/lecture3-section4.1-normal-distribution.pdf) Section 4.1 Normal distribution
-- Take lecture video quiz 3 (not available yet)
+- Take lecture video quiz 3 [`r fa(name = "link", fill = "blue")`](https://canvas.eee.uci.edu/courses/46939/quizzes/234934) due on Canvas at 11:59pm
 
 ## Tuesday Aug 9, 2022
 
