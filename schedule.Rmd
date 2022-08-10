@@ -73,5 +73,8 @@ library(fontawesome)
 ## Wednesday Aug 10, 2022
 
 - Attend discussion and take discussion quiz 1 in person
-- Watch lecture 4 videos (to be posted)
+- Watch lecture 4 videos
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/NTsJFdVkBGwk_usiIppU-P94VhAjRgRy7JOE9kJa2UmDFRxPA7-NXSHcV19vTrFJ.3eN2J-7UheIHS-M1?startTime=1660109662000) [`r fa("file", fill = "blue")`](lecture-slides/lecture4-section5.1-point-estimates-and-sampling-variability.pdf) Section 5.1 Point estimates and sampling variability
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/DRNBMSghU9F8Shr-iwpfl5_qXQ5xbynse-ZovFBIGhn2F-_MMRLIJJD-T_qp0mNe.uYAKm21Nu2QeKWmu?startTime=1660111229000) [`r fa("file", fill = "blue")`](lecture-slides/lecture4-section5.2-confidence-intervals-for-proportions.pdf) Section 5.2 Confidence intervals for a proportion
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/HkdEDMf3juhNPkL_BfPPjlHFiNsCKXc9e1VFXXbW562AJIOBxF1ZAEshCp8qRtQe.HqCOpY52ukcuTP1B?startTime=1660114154000) [`r fa("file", fill = "blue")`](lecture-slides/lecture4-section2.3-case-study-gender-discrimination.pdf) Section 2.3 Introduction to the idea of hypothesis testing
 - Take lecture video quiz 4 (to be released) due on Canvas at 11:59pm
