@@ -67,5 +67,11 @@ library(fontawesome)
 
 ## Tuesday Aug 9, 2022
 
-- Attend lecture 3
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture3-practice.pdf) [`r fa(name = "link", fill = "blue")`](https://docs.google.com/presentation/d/1G-O8VvLUu8KDTFWndxztmn0j89DYdIwhdae-d-tO8xs/edit?usp=sharing) Attend lecture 3 at 1pm
 - Homework 1 due on Gradescope at 11:59pm
+
+## Wednesday Aug 10, 2022
+
+- Attend discussion and take discussion quiz 1 in person
+- Watch lecture 4 videos (to be posted)
+- Take lecture video quiz 4 (to be released) due on Canvas at 11:59pm
