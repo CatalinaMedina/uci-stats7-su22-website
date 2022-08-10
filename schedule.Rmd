@@ -69,6 +69,7 @@ library(fontawesome)
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture3-practice.pdf) [`r fa(name = "link", fill = "blue")`](https://docs.google.com/presentation/d/1G-O8VvLUu8KDTFWndxztmn0j89DYdIwhdae-d-tO8xs/edit?usp=sharing) Attend lecture 3 at 1pm
 - Homework 1 due on Gradescope at 11:59pm
+    - [`r fa("file", fill = "blue")`](homework/stats7-hw1-solutions.pdf) Homework 1 solutions
 
 ## Wednesday Aug 10, 2022
 
