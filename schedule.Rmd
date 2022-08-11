@@ -79,3 +79,12 @@ library(fontawesome)
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/DRNBMSghU9F8Shr-iwpfl5_qXQ5xbynse-ZovFBIGhn2F-_MMRLIJJD-T_qp0mNe.uYAKm21Nu2QeKWmu?startTime=1660111229000) [`r fa("file", fill = "blue")`](lecture-slides/lecture4-section5.2-confidence-intervals-for-proportions.pdf) Section 5.2 Confidence intervals for a proportion
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/HkdEDMf3juhNPkL_BfPPjlHFiNsCKXc9e1VFXXbW562AJIOBxF1ZAEshCp8qRtQe.HqCOpY52ukcuTP1B?startTime=1660114154000) [`r fa("file", fill = "blue")`](lecture-slides/lecture4-section2.3-case-study-gender-discrimination.pdf) Section 2.3 Introduction to the idea of hypothesis testing
 - Take lecture video quiz 4 (to be released) due on Canvas at 11:59pm
+
+## Thursday Aug 11, 2022
+
+- Attend lecture at 1pm
+- Homework 2 released tonight. Due August 16th at 11:50pm on Gradescope.
+
+## Friday Aug 12, 2022
+
+- TA office hour 3-4pm on Zoom (see Canvas for Zoom link)
