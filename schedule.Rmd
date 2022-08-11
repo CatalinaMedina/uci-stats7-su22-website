@@ -82,7 +82,7 @@ library(fontawesome)
 
 ## Thursday Aug 11, 2022
 
-- Attend lecture at 1pm
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture4-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1junLo66xcBrBDM-ok4Dksex8ykORzLO0SRkCZlBbAh4/edit?usp=sharing) Attend lecture at 1pm
 - Homework 2 released tonight. Due August 16th at 11:50pm on Gradescope.
 
 ## Friday Aug 12, 2022
