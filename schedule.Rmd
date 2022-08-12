@@ -51,7 +51,7 @@ library(fontawesome)
 ## Thursday Aug 4, 2022
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture2-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1zNV-M1LuDTg7sTJVo0oBZLPTP1FtwymeXsJrspX4hzg/edit?usp=sharing) Attend lecture at 1pm
-- [`r fa("file", fill = "blue")`](homework/stats7-hw1.pdf) Homework 1 released. Due on August 9th at 11:59pm.
+- [`r fa("file", fill = "blue")`](homework/hw1/stats7-hw1.pdf) Homework 1 released. Due on August 9th at 11:59pm.
 
 ## Friday Aug 5, 2022
 
@@ -69,7 +69,7 @@ library(fontawesome)
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture3-practice.pdf) [`r fa(name = "link", fill = "blue")`](https://docs.google.com/presentation/d/1G-O8VvLUu8KDTFWndxztmn0j89DYdIwhdae-d-tO8xs/edit?usp=sharing) Attend lecture 3 at 1pm
 - Homework 1 due on Gradescope at 11:59pm
-    - [`r fa("file", fill = "blue")`](homework/stats7-hw1-solutions.pdf) Homework 1 solutions
+    - [`r fa("file", fill = "blue")`](homework/hw1/stats7-hw1-solutions.pdf) Homework 1 solutions
 
 ## Wednesday Aug 10, 2022
 
@@ -83,7 +83,7 @@ library(fontawesome)
 ## Thursday Aug 11, 2022
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture4-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1junLo66xcBrBDM-ok4Dksex8ykORzLO0SRkCZlBbAh4/edit?usp=sharing) Attend lecture at 1pm
-- Homework 2 released tonight. Due August 16th at 11:50pm on Gradescope.
+- [`r fa("file", fill = "blue")`](homework/hw2/stats7-hw2.pdf) Homework 2 released. Due August 16th at 11:59pm on Gradescope.
 
 ## Friday Aug 12, 2022
 
