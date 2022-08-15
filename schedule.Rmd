@@ -78,7 +78,7 @@ library(fontawesome)
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/NTsJFdVkBGwk_usiIppU-P94VhAjRgRy7JOE9kJa2UmDFRxPA7-NXSHcV19vTrFJ.3eN2J-7UheIHS-M1?startTime=1660109662000) [`r fa("file", fill = "blue")`](lecture-slides/lecture4-section5.1-point-estimates-and-sampling-variability.pdf) Section 5.1 Point estimates and sampling variability
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/DRNBMSghU9F8Shr-iwpfl5_qXQ5xbynse-ZovFBIGhn2F-_MMRLIJJD-T_qp0mNe.uYAKm21Nu2QeKWmu?startTime=1660111229000) [`r fa("file", fill = "blue")`](lecture-slides/lecture4-section5.2-confidence-intervals-for-proportions.pdf) Section 5.2 Confidence intervals for a proportion
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/HkdEDMf3juhNPkL_BfPPjlHFiNsCKXc9e1VFXXbW562AJIOBxF1ZAEshCp8qRtQe.HqCOpY52ukcuTP1B?startTime=1660114154000) [`r fa("file", fill = "blue")`](lecture-slides/lecture4-section2.3-case-study-gender-discrimination.pdf) Section 2.3 Introduction to the idea of hypothesis testing
-- Take lecture video quiz 4 (to be released) due on Canvas at 11:59pm
+- Take lecture video quiz 4 due on Canvas at 11:59pm
 
 ## Thursday Aug 11, 2022
 
@@ -88,3 +88,12 @@ library(fontawesome)
 ## Friday Aug 12, 2022
 
 - TA office hour 3-4pm on Zoom (see Canvas for Zoom link)
+
+## Monday Aug 15, 2022
+
+- Instructor office hour 10-11am on Zoom
+- Watch lecture 5 videos
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/jwfUhumiddxKq3aETpn7cGlb5B-Hr9eZ0stHS8itpJa46PKBV0rgkYNjPmETDA71.-brM_j9XeRnIsceq?startTime=1660545360000) [`r fa("file", fill = "blue")`](lecture-slides/lecture5-section5.3-hypothesis-testing-for-a-proportion.pdf) Section 5.3 Hypothesis testing for a proportion
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/qzo9DE0BYEDm7atUY52lEGrc6kS4MzFQm-7QaQQrAuBK8EWdTvCfkvrtmjBvLjA9.CnRQ_aFlMooVCjmQ?startTime=1660547721000) [`r fa("file", fill = "blue")`](lecture-slides/lecture5-section6.1-inference-for-a-single-proportion.pdf) Section 6.1 Inference for a single proportion
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/k6ayX4j7p_AOgcEyAg1sjQ-t-OE_TsvHxJO2ktUsNDDe6a_d9cqFYHfnnP4Ueyw6.Tde2KQa4bPXukv2c?startTime=1660549031000) [`r fa("file", fill = "blue")`](lecture-slides/lecture5-section6.2-difference-of-two-proportions.pdf) Section 6.2
+- Take lecture video quiz 5 due on Canvas Tuesday at noon
