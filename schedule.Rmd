@@ -97,3 +97,14 @@ library(fontawesome)
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/qzo9DE0BYEDm7atUY52lEGrc6kS4MzFQm-7QaQQrAuBK8EWdTvCfkvrtmjBvLjA9.CnRQ_aFlMooVCjmQ?startTime=1660547721000) [`r fa("file", fill = "blue")`](lecture-slides/lecture5-section6.1-inference-for-a-single-proportion.pdf) Section 6.1 Inference for a single proportion
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/k6ayX4j7p_AOgcEyAg1sjQ-t-OE_TsvHxJO2ktUsNDDe6a_d9cqFYHfnnP4Ueyw6.Tde2KQa4bPXukv2c?startTime=1660549031000) [`r fa("file", fill = "blue")`](lecture-slides/lecture5-section6.2-difference-of-two-proportions.pdf) Section 6.2 Inference for two proportions
 - Take lecture video quiz 5 due on Canvas Tuesday at noon
+
+## Tuesday Aug 16, 2022
+
+- Lecture video quiz 5 due at noon
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture5-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1hwDAFj4cnINySefrOrer1J-RBOhcxJCr8KoP49akmMA/edit?usp=sharing) Attend lecture at 1pm
+
+## Wednesday Aug 17, 2022
+
+- Discussion quiz 2 in discussion at 4pm
+- Homework 2 due at 11:59pm on Gradescope
+- Watch lecture 6 videos
