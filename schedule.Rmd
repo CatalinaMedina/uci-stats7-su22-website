@@ -111,3 +111,13 @@ library(fontawesome)
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/k2kJ_uk5e-FAqAqDVzWm9jbDM_BolhJ-WwpdyW_k201dZP8E0P13sDEiz99C929n.uRmTodO7EhMRKZ6t?startTime=1660701095000) [`r fa("file", fill = "blue")`](lecture-slides/lecture6-section6.3-chi-square-test-of-gof.pdf) Section 6.3 Chi square test for goodness of fit
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/n9XqFIaNC2VZUWShW4Zc7LLDTuHe3Dl0xu-KR7NP7LFugoiovutdaanqSiI2iAMq.vAUKN0isAxbQdBoE?startTime=1660703627000) [`r fa("file", fill = "blue")`](lecture-slides/lecture6-section6.4-chi-square-test-of-independence.pdf) Section 6.4 Chi square test for independence
 - Take lecture video quiz 6 due on Canvas Thursday at noon
+
+## Thursday Aug 18, 2022
+
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture6-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1Vrpf7gDmEsmrqn5oLRGlqornJlxCUzkxIdqlwZF1QJg/edit?usp=sharing) Attend lecture at 1pm
+- [`r fa("file", fill = "blue")`](homework/hw2/stats7-hw2-solutions.pdf) Review homework 2 solutions
+- [`r fa("file", fill = "blue")`](homework/hw3/stats7-hw3.pdf) Homework 3 released. Due August 23rd at 11:59pm on Gradescope.
+
+## Friday Aug 19, 2022
+
+- TA office hour 3-4pm on Zoom (see Canvas for Zoom link)
