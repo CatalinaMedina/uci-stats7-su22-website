@@ -66,7 +66,7 @@ We will use the Canvas discussion board as the primary mode for communication. T
 
 | Assignment | Percentage of final grade | Due | Location |
 |:--------------|:----------------|:----------------------|:-------|
-|Lecture video quizzes | 15% | 11:59 pm Mondays and Wednesdays | Online on Canvas |
+|Lecture video quizzes | 15% | Noon Tuesdays and Thursdays | Online on Canvas |
 | Homeworks | 30% | 11:59 pm Tuesdays | Online on GradeScope |
 | Discussion quizzes | 25% | 4:50 pm Wednesdays | In person in discussion |
 | Final exam | 30% | 3:50 pm Sep. 6th | In person in lecture |
@@ -81,7 +81,7 @@ F- \[0, 60)
 
 
 ### Lecture video quizzes:
-Students will be required to watch lecture videos on Canvas before attending lectures in person on Tuesdays and Thursdays. Each set of lecture videos will have one corresponding lecture video quiz on Canvas, due at 11:59 pm the night before each corresponding class time (i.e. Mondays and Wednesdays).
+Students will be required to watch lecture videos on Canvas before attending lectures in person on Tuesdays and Thursdays. Each set of lecture videos will have one corresponding lecture video quiz on Canvas, due at noon before each corresponding class time (i.e. Tuesdays and Thursdays).
 
 These lecture videos will provide an introduction into the content that will be practiced during the scheduled class time. By utilizing a partially flipped classroom we can dedicate more class time to working through problems, which is essential for understanding statistics. The quizzes are meant to help motivate students to stay up to date with the rapid pacing of the summer class and as such will be composed of relatively straightforward questions based off of the corresponding videos' content. Two attempts are allowed per quiz and only the highest score will be used.
 
