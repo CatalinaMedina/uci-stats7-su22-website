@@ -121,3 +121,11 @@ library(fontawesome)
 ## Friday Aug 19, 2022
 
 - TA office hour 3-4pm on Zoom (see Canvas for Zoom link)
+
+## Monday Aug 22, 2022
+
+- Watch lecture 7 videos
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/LKlfHQlm12isPvNBX6BXb06vG36zBqUd7P60krZfiEmVPtWcWLIp92RMyxNZXOs3.X0uvQKL247D0SwaQ?startTime=1661166346000) [`r fa("file", fill = "blue")`](lecture-slides/lecture7-section7.1-inference-for-a-mean.pdf) Section 7.1 Inference for a mean with one sample
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/gC_M6IE3GBB67Vfr4wVcKZd19IxUYKOOwFE-uf9IVYRQh7p3H3YU39pIfkdN5EG-.qRzBxRbcsmW5DEVu?startTime=1661167879000) [`r fa("file", fill = "blue")`](lecture-slides/lecture7-section7.2-paired-data.pdf) Section 7.2 Inference for a mean with paired data
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/NehdKjr5aFQGIQsvTlUc3zb4wzcC6fHQER0p5fAC0m_UDp21iR5Z1H5l25lF-WNK.ZQLEAQq2TOmICGSM?startTime=1661168845000) [`r fa("file", fill = "blue")`](lecture-slides/lecture7-section7.3-difference-of-two-means.pdf) Section 7.3 Inference for the difference of two means
+- Take lecture video quiz 7 due on Canvas Tuesday at noon
