@@ -129,3 +129,24 @@ library(fontawesome)
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/gC_M6IE3GBB67Vfr4wVcKZd19IxUYKOOwFE-uf9IVYRQh7p3H3YU39pIfkdN5EG-.qRzBxRbcsmW5DEVu?startTime=1661167879000) [`r fa("file", fill = "blue")`](lecture-slides/lecture7-section7.2-paired-data.pdf) Section 7.2 Inference for a mean with paired data
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/NehdKjr5aFQGIQsvTlUc3zb4wzcC6fHQER0p5fAC0m_UDp21iR5Z1H5l25lF-WNK.ZQLEAQq2TOmICGSM?startTime=1661168845000) [`r fa("file", fill = "blue")`](lecture-slides/lecture7-section7.3-difference-of-two-means.pdf) Section 7.3 Inference for the difference of two means
 - Take lecture video quiz 7 due on Canvas Tuesday at noon
+
+## Tuesday Aug 23, 2022
+
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture7-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1ho_Xs2TtWNg_a8rpGjTKOOJI_KccCtxgh0XQk0hj9V4/edit?usp=sharing) Attend lecture
+- Homework 3 due at 11:59pm on Gradescope
+
+
+## Wednesday Aug 24, 2022
+
+- Discussion quiz 3 in discussion at 4pm
+- Watch lecture 8 videos (To be released)
+- Take lecture video quiz 8 due on Canvas Thursday at noon
+
+## Thursday Aug 25, 2022
+
+- Attend lecture on Zoom at 1pm
+- Homework 4 released
+
+## Friday Aug 26, 2022
+
+- TA office hour 3-4pm on Zoom (see Canvas for Zoom link)
