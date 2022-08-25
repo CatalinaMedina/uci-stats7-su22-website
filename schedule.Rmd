@@ -133,7 +133,6 @@ library(fontawesome)
 ## Tuesday Aug 23, 2022
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture7-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1ho_Xs2TtWNg_a8rpGjTKOOJI_KccCtxgh0XQk0hj9V4/edit?usp=sharing) Attend lecture
-- Homework 3 due at 11:59pm on Gradescope
 
 
 ## Wednesday Aug 24, 2022
@@ -142,11 +141,13 @@ library(fontawesome)
 - Watch lecture 8 videos
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/chD_tRgTs_qSJsRVdfEOza1dDO3cxaLBAaVEOsclkWWGVF2SgJhWWDLL1xYo8OJj.JeJ8wbWGe0xSNuZL?startTime=1661300893000) [`r fa("file", fill = "blue")`](lecture-slides/lecture8-section7.5-mean-comparison-with-ANOVA.pdf) Section 7.5 Comparing means with ANOVA
 - Take lecture video quiz 8 due on Canvas Thursday at noon
+- Homework 3 due at 11:59pm on Gradescope
 
 ## Thursday Aug 25, 2022
 
-- Attend lecture on Zoom at 1pm
-- Homework 4 released
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture8-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1GQLq82W7OMeXKretkKXBiaSGPA8hHeQa2x7HuDgVPHU/edit?usp=sharing) Attend lecture on Zoom at 1pm
+- [`r fa("file", fill = "blue")`](homework/hw3/stats7-hw3-solutions.pdf)  Homework 3 solutions
+- Homework 4 released tonight
 
 ## Friday Aug 26, 2022
 
