@@ -147,7 +147,7 @@ library(fontawesome)
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture8-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1GQLq82W7OMeXKretkKXBiaSGPA8hHeQa2x7HuDgVPHU/edit?usp=sharing) Attend lecture on Zoom at 1pm
 - [`r fa("file", fill = "blue")`](homework/hw3/stats7-hw3-solutions.pdf)  Homework 3 solutions
-- Homework 4 released tonight
+- [`r fa("file", fill = "blue")`](homework/hw4/stats7-hw4.pdf) Homework 4 released. Due August 30th at 11:59pm on Gradescope.
 
 ## Friday Aug 26, 2022
 
