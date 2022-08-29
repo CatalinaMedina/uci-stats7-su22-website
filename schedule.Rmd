@@ -161,3 +161,4 @@ library(fontawesome)
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/Yv_-TKaZnT56ZIZqBJO9QCC4wdm8WtpdjpB0dWB-6zYztZuJzwsJ713U_z_kTVyv.tUmwPqPYD9sK19Yr?startTime=1661756484000) [`r fa("file", fill = "blue")`](lecture-slides/lecture9-section8.2-least-squares-regression.pdf) Section 8.2 least squares regression
 - Take lecture video quiz 9 due on Canvas Tuesday at noon
 
+
