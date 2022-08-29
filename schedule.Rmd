@@ -69,7 +69,7 @@ library(fontawesome)
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture3-practice.pdf) [`r fa(name = "link", fill = "blue")`](https://docs.google.com/presentation/d/1G-O8VvLUu8KDTFWndxztmn0j89DYdIwhdae-d-tO8xs/edit?usp=sharing) Attend lecture 3 at 1pm
 - Homework 1 due on Gradescope at 11:59pm
-    - [`r fa("file", fill = "blue")`](homework/hw1/stats7-hw1-solutions.pdf) Homework 1 solutions
+    - Homework 1 solutions available on Canvas
 
 ## Wednesday Aug 10, 2022
 
@@ -115,7 +115,7 @@ library(fontawesome)
 ## Thursday Aug 18, 2022
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture6-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1Vrpf7gDmEsmrqn5oLRGlqornJlxCUzkxIdqlwZF1QJg/edit?usp=sharing) Attend lecture at 1pm
-- [`r fa("file", fill = "blue")`](homework/hw2/stats7-hw2-solutions.pdf) Review homework 2 solutions
+- Review homework 2 solutions available on Canvas
 - [`r fa("file", fill = "blue")`](homework/hw3/stats7-hw3.pdf) Homework 3 released. Due August 23rd at 11:59pm on Gradescope.
 
 ## Friday Aug 19, 2022
@@ -146,9 +146,18 @@ library(fontawesome)
 ## Thursday Aug 25, 2022
 
 - [`r fa("file", fill = "blue")`](lecture-slides/lecture8-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1GQLq82W7OMeXKretkKXBiaSGPA8hHeQa2x7HuDgVPHU/edit?usp=sharing) Attend lecture on Zoom at 1pm
-- [`r fa("file", fill = "blue")`](homework/hw3/stats7-hw3-solutions.pdf)  Homework 3 solutions
+- Homework 3 solutions available on Canvas
 - [`r fa("file", fill = "blue")`](homework/hw4/stats7-hw4.pdf) Homework 4 released. Due August 30th at 11:59pm on Gradescope.
 
 ## Friday Aug 26, 2022
 
 - TA office hour 3-4pm on Zoom (see Canvas for Zoom link)
+
+## Monday Aug 29, 2022
+
+- Instructor office hour 10-11am on Zoom
+- Watch lecture 9 videos
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/9ki7ZKL0JZyv6aDDzgQH3DDO7pSxs9oVrFWF6ikf_Bz87pnzoPzNNTWa0F08Oksx.S10mD42N0dDtKP91?startTime=1661754720000) [`r fa("file", fill = "blue")`](lecture-slides/lecture9-section8.1-line-fitting-residuals-and-correlation.pdf) Section 8.1 Line fitting, residuals, and correlation
+    - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/Yv_-TKaZnT56ZIZqBJO9QCC4wdm8WtpdjpB0dWB-6zYztZuJzwsJ713U_z_kTVyv.tUmwPqPYD9sK19Yr?startTime=1661756484000) [`r fa("file", fill = "blue")`](lecture-slides/lecture9-section8.2-least-squares-regression.pdf) Section 8.2 least squares regression
+- Take lecture video quiz 9 due on Canvas Tuesday at noon
+
