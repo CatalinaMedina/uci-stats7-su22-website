@@ -161,4 +161,13 @@ library(fontawesome)
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/Yv_-TKaZnT56ZIZqBJO9QCC4wdm8WtpdjpB0dWB-6zYztZuJzwsJ713U_z_kTVyv.tUmwPqPYD9sK19Yr?startTime=1661756484000) [`r fa("file", fill = "blue")`](lecture-slides/lecture9-section8.2-least-squares-regression.pdf) Section 8.2 least squares regression
 - Take lecture video quiz 9 due on Canvas Tuesday at noon
 
+## Tuesday Aug 30, 2022
 
+- [`r fa("file", fill = "blue")`](lecture-slides/lecture9-practice.pdf) [`r fa("link", fill = "blue")`](https://docs.google.com/presentation/d/1lKfz8ySlswCtcHBAozEpq6f5MKFKGziOUEm67LtazC8/edit?usp=sharing)  Attend lecture 
+- Submit homework 4
+
+## Wednesday Aug 31, 2022
+
+- Discussion quiz 4 in discussion at 4pm
+- Watch lecture 10 videos (To be posted Wednesday morning...)
+- Take lecture video quiz 10 due on Canvas Thursday at noon
