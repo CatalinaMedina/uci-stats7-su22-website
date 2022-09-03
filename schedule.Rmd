@@ -173,3 +173,20 @@ library(fontawesome)
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/rngZsoQzDWqSbOXQ9HOkNHWhGaA9Csa2Y7nzzKVObDq0-TvgD9kYBImIjPDQskli.L9kaGcKnV-6smr9h?startTime=1661963423000) [`r fa("file", fill = "blue")`](lecture-slides/lecture10-section8.3-outliers-in-linear-regression.pdf) Section 8.3 Outliers in linear regression
     - [`r fa(name = "video", fill = "blue")`](https://uci.zoom.us/rec/share/w_9PQfwoLAb1mu25Pjsg9hQKpqdXtfpcut6jrjG7Hb7xRvh8kM7XPmyf_uHO9bib.G_MPb3lMKlqosQxE?startTime=1661964015000) [`r fa("file", fill = "blue")`](lecture-slides/lecture10-section8.4-inference-for-linear-regression.pdf) Section 8.4 Inference for linear regression
 - Take lecture video quiz 10 due on Canvas Thursday at noon
+
+## Thursday Sep 1, 2022
+
+- Lecture cancelled
+
+## Friday Sep 2, 2022
+
+- TA office hour 3-4pm on Zoom (see Canvas for Zoom link)
+- Practice final exam posted on Canvas under "files".
+
+## Sunday Sep 4, 2022
+
+- Instructor office hour 10-11am on Zoom 
+
+## Tuesday Sep 6, 2022
+
+- In person final exam 1-3:50pm in our lecture room, ICS 180. I estimate it will take you about an hour to finish the exam. Just like with the discussion quizzes, no calculators or other materials will be necessary or allowed, food and drink are ok. Please make sure to bring some form of ID to the final (school or government ID). 
